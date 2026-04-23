@@ -73,7 +73,9 @@ playwright-report/    # HTML reports (ignored in Git)
 👩‍💻 Author
 
 Megha Sharma
+
 QA Automation Engineer
 
 📌 Note
+
 This project was created as part of a QA Engineer automation assignment.
